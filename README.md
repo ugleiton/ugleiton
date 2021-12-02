@@ -20,7 +20,7 @@
 
 **Aplicações e Dados**
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
