@@ -9,6 +9,11 @@
 <!---- 👯 💞️ I’m looking to collaborate on Odoo --->
 <!----- ⚡ Fun fact: ...--->
 
+**Como me encontrar**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ugleiton//)](https://www.linkedin.com/in/ugleiton)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](ugleiton@gmail.com)
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
