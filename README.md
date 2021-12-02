@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ugleiton&color=006bed)
+[![GitHub Ugleiton]( https://img.shields.io/github/followers/ugleiton?label=follow&style=social)](https://github.com/ugleiton)
 
 ### Olá 👋
 
