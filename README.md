@@ -62,3 +62,5 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 --->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugleiton&layout=compact)](https://github.com/ugleiton/github-readme-stats)
