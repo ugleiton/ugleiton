@@ -6,8 +6,8 @@
 - 🔭 Atualmente estou explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 Estou estudando Odoo, TypeScript e Produção
 - 💬 Pergunte-me sobre qualquer coisa
-- 📫 Como me encontrar: ugleiton arroba gmail ponto com
-<!---- 👯 💞️ I’m looking to collaborate on Odoo --->
+<!----- 📫 Como me encontrar: ugleiton arroba gmail ponto com
+ 👯 💞️ I’m looking to collaborate on Odoo --->
 <!----- ⚡ Fun fact: ...--->
 
 **Como me encontrar**
