@@ -12,7 +12,7 @@
 **Como me encontrar**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ugleiton//)](https://www.linkedin.com/in/ugleiton)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](ugleiton@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ugleiton@gmail.com)](mailto:ugleiton@gmail.com)
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
