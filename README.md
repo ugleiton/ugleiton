@@ -17,9 +17,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-f5f8fa?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/ugleiton)](https://twitter.com/ugleiton)
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ugleiton/)](https://www.instagram.com/ugleiton/)-->
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
+:rocket: **Skills**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
