@@ -7,6 +7,9 @@
 - 🌱 Estou estudando Odoo, TypeScript e Produção
 - 💬 Pergunte-me sobre qualquer coisa
 
+<img align="right" alt="GIF" src="https://github.com/ugleiton/ugleiton/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+
 **Onde me encontrar**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ugleiton//)](https://www.linkedin.com/in/ugleiton)
