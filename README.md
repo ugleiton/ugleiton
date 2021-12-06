@@ -1,22 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=ugleiton&color=006bed)
 [![GitHub Ugleiton]( https://img.shields.io/github/followers/ugleiton?label=follow&style=social)](https://github.com/ugleiton)
 
-### Olá 👋
+### Olá eu sou o Ugleiton 👋
 
 - 🔭 Atualmente estou explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 Estou estudando Odoo, TypeScript e Produção
 - 💬 Pergunte-me sobre qualquer coisa
-<!----- 📫 Como me encontrar: ugleiton arroba gmail ponto com
- 👯 💞️ I’m looking to collaborate on Odoo --->
-<!----- ⚡ Fun fact: ...--->
 
-**Como me encontrar**
+**Onde me encontrar**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ugleiton//)](https://www.linkedin.com/in/ugleiton)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:ugleiton@gmail.com)](mailto:ugleiton@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ugleiton)](https://twitter.com/ugleiton)
-[![Gitlab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=Gitlab&logoColor=white&link=https://gitlab.com/ugleiton)](https://gitlab.com/ugleiton)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-flat&logo=Telegram&logoColor=white)](https://t.me/ugleiton)
+[![Gitlab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=Gitlab&logoColor=white&link=https://gitlab.com/ugleiton)](https://gitlab.com/ugleiton)
 
 
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ugleiton/)](https://www.instagram.com/ugleiton/)-->
