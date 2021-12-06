@@ -15,7 +15,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ugleiton//)](https://www.linkedin.com/in/ugleiton)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:ugleiton@gmail.com)](mailto:ugleiton@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-f5f8fa?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/ugleiton)](https://twitter.com/ugleiton)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-330F63?style=flat&logo=Gitlab&logoColor=white&link=https://gitlab.com/ugleiton)](https://gitlab.com/ugleiton)
+[![Gitlab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=Gitlab&logoColor=white&link=https://gitlab.com/ugleiton)](https://gitlab.com/ugleiton)
 
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ugleiton/)](https://www.instagram.com/ugleiton/)-->
 
