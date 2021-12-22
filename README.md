@@ -4,7 +4,7 @@
 ### Olá eu sou o Ugleiton 👋
 
 - 🔭 Atualmente estou explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 Estou estudando Odoo, TypeScript e Produção
+- 🌱 Estou estudando Odoo, TypeScript e ElasticSearch
 - 💬 Pergunte-me sobre qualquer coisa
 
 <img align="right" alt="GIF" src="https://github.com/ugleiton/ugleiton/blob/master/coding.gif?raw=true" width="408" height="318" />
